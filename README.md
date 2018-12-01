@@ -4,7 +4,7 @@ Control de dispositivos externos, desde una FPGA, vía Bluetooth
 
 ### Contenido
 
-Informe completo del trabajo de fin de grado desarrollado, incluyendo las aplicaciones para Android desarrolladas y todos los programas generados en lenguaje VHDL para el funcionamiento de una estación meteorológica inteligente.
+Trabajo de fin de grado desarrollado, incluyendo las aplicaciones para Android desarrolladas y todos los programas generados en lenguaje VHDL para el funcionamiento de una estación meteorológica inteligente.
 
 ### Material utilizado
 
